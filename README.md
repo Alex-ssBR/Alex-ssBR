@@ -1,7 +1,7 @@
-## Hi there 👋 my name is Alex 😁
+##<h1> Hi there 👋 my name is Alex 😁</h1>
 🔹I'm a FATEC IT management student <br>
 🔹Junior front-end developer  👨🏻‍💻
-<h1>Code with</h1>
+<h2>Code with</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />

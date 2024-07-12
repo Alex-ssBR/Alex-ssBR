@@ -1,4 +1,4 @@
-##<h1> Hi there 👋 my name is Alex 😁</h1>
+<h1> Hi there 👋 my name is Alex 😁</h1>
 🔹I'm a FATEC IT management student <br>
 🔹Junior front-end developer  👨🏻‍💻
 <h2>Code with</h2>

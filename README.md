@@ -1,4 +1,4 @@
-<h1> Hi there 👋 my name is Alex 😁</h1>
+<h1 style="text-shadow: 2px 2px 0.5em black"> Hi there 👋 my name is Alex 😁</h1>
 <p style="border:2px solid blue">I am a young person looking for opportunities in the job market for my own professional development. I am willing to collaborate with 
 development of the company. Date of Birth: March 2006.</p>
 🔹I'm a FATEC IT management student <br>

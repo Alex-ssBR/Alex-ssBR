@@ -1,20 +1,48 @@
-<h1 style="text-shadow: 2px 2px 0.5em black"> Hi there 👋 my name is Alex 😁</h1>
-<p style="border:2px solid blue">I am a young person looking for opportunities in the job market for my own professional development. I am willing to collaborate with 
-development of the company. Date of Birth: March 2006.</p>
-🔹I'm a FATEC IT management student <br>
-🔹Junior front-end developer  👨🏻‍💻
-<h2>Code with</h2>
+<h1 align="left">Hi there 👋 my name is Alex 😁</h1>
+
+###
+
+<p align="left">My name is Alex Silva Santos. Date of Birth: March 2006.</p>
+
+###
+
+<h2 align="left">I am a young person looking for opportunities in the job market for my own professional development. I am willing to collaborate with <br>development of the company.</h2>
+
+###
+
+<p align="left">🔹I'm a FATEC IT management student <br>🔹Junior front-end developer  👨🏻‍💻<br>🔹Junior Python programmer  👨🏻‍💻</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-<!--
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/alex-silva-santos-93b805282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###<!--
 **Alex-ssBR/Alex-ssBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

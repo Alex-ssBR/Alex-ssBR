@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I am a young person looking for opportunities in the job market for my own professional development. I am willing to collaborate with <br>development of the company.</h2>
+<h2 align="left">Sou Alex Silva-Santos, um jovem profissional apaixonado por tecnologia, inovação e análise de dados. Desde o início da minha jornada acadêmica na FATEC, venho me dedicando a entender como a informação e os sistemas podem transformar organizações e tornar os processos mais ágeis, seguros e inteligentes.</h2>
 
 ###
 

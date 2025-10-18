@@ -1,16 +1,19 @@
-<h1 align="left">Hi there 👋 Welcome 😁</h1>
+<h1 align="left">Olá tudo bem? 👋 Bem-vindo 😁</h1>
 
 ###
 
-<p align="left">My name is Alex Silva Santos. Date of Birth: March 2006.</p>
+<p align="left"></p>
 
 ###
 
-<h2 align="left">Sou Alex Silva-Santos, um jovem profissional apaixonado por tecnologia, inovação e análise de dados. Desde o início da minha jornada acadêmica na FATEC, venho me dedicando a entender como a informação e os sistemas podem transformar organizações e tornar os processos mais ágeis, seguros e inteligentes.</h2>
+<h2 align="left">Sou Alex Silva vSantos, um jovem profissional apaixonado por tecnologia, inovação e análise de dados. Desde o início da minha jornada acadêmica na FATEC, venho me dedicando a entender como a informação e os sistemas podem transformar organizações e tornar os processos mais ágeis, seguros e inteligentes.</h2>
 
 ###
 
-<p align="left">🔹I'm a FATEC IT management student <br>🔹Junior front-end developer  👨🏻‍💻<br>🔹Junior Python programmer  👨🏻‍💻</p>
+<p align="left">
+🔹Sou estudante de Gestão de TI da FATEC <br>
+🔹Desenvolvedor Front-end Júnior 👨🏻‍💻<br>
+🔹Programador Python Júnior 👨🏻‍💻</p>
 
 ###
 

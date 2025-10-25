@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" height="40" alt="mysql logo" /> <img width="12" />
+  <img src="[https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png](https://cdn-icons-png.flaticon.com/512/5968/5968313.png)" height="40" alt="mysql logo" /> <img width="12" />
 </div>
 
 ###
